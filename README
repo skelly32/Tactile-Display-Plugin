@@ -1,0 +1,8 @@
+Tacticle Display Device plugin for RTXI
+
+v0.1
+
+Notes:
+-Code is still littered with terminal-printing check statements
+-QT Painter/PaintDevice not showing up in UI, however, the paintEvent is being called.
+-Mouse position polling working, must set system speed to no faster than 100 Hz. 
